@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="waring_product_name_empty">Product name can\'t be empty!</string>
+    <string name="waring_product_supplier_name_empty">Product supplier name can\'t be empty!</string>
+    <string name="waring_db_insert_failure">Insert to database failed</string>
+</resources>
